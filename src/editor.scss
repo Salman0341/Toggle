@@ -1,0 +1,20 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+ .cwp_toggle_wrapper button {
+    padding: 10px 20px;
+    outline: none;
+	cursor: pointer;
+	background: #f3f4f5;
+	text-align: left;
+	outline: none;
+	border: none;
+	width: 100%;
+}
+
+.cwp_toggle_wrapper button:hover {
+   background: #ff0000;
+}
+ 
